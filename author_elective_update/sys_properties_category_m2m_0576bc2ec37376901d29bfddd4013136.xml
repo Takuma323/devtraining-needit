@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="DELETE">
+        <category display_value="NeedIt Properties">2c6559100f9af2000d030dbce1050e3c</category>
+        <order>100</order>
+        <property display_value="x_58872_needit. autoCloseOverdudue" name="x_58872_needit. autoCloseOverdudue">64f57ceac37376901d29bfddd40131af</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-26 01:19:19</sys_created_on>
+        <sys_id>0576bc2ec37376901d29bfddd4013136</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit. autoCloseOverdudue.NeedIt Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_0576bc2ec37376901d29bfddd4013136</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-26 01:19:19</sys_updated_on>
+    </sys_properties_category_m2m>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>a101c642db56795092f5684e139619d9</instance_id>
+        <instance_name>dev205420</instance_name>
+        <name>sys_properties_category_m2m_0576bc2ec37376901d29bfddd4013136</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m"><sys_properties_category_m2m action="INSERT_OR_UPDATE"><category display_value="NeedIt Properties">2c6559100f9af2000d030dbce1050e3c</category><order>100</order><property display_value="x_58872_needit. autoCloseOverdudue" name="x_58872_needit. autoCloseOverdudue">64f57ceac37376901d29bfddd40131af</property><sys_class_name>sys_properties_category_m2m</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-03-26 01:19:19</sys_created_on><sys_id>0576bc2ec37376901d29bfddd4013136</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_58872_needit. autoCloseOverdudue.NeedIt Properties</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_properties_category_m2m_0576bc2ec37376901d29bfddd4013136</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-03-26 01:19:19</sys_updated_on></sys_properties_category_m2m></record_update>]]></payload>
+        <payload_hash>-984486784</payload_hash>
+        <record_name>x_58872_needit. autoCloseOverdudue.NeedIt Properties</record_name>
+        <reverted_from/>
+        <source>71d05525c3737e501d29bfddd40131f2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-26 01:19:19</sys_created_on>
+        <sys_id>4976bc2ec37376901d29bfddd401313b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19d27b978ae0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-26 01:19:19</sys_updated_on>
+        <type>Category Property</type>
+        <update_guid>0976bc2e96737690807c33717674323a</update_guid>
+        <update_guid_history>0976bc2e96737690807c33717674323a:-984486784</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-26 01:21:16</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties_category_m2m">sys_properties_category_m2m</sys_db_object>
+        <sys_id>03a5ab403af3468e880cd5b2185409c9</sys_id>
+        <sys_metadata>0576bc2ec37376901d29bfddd4013136</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit. autoCloseOverdudue.NeedIt Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_properties_category_m2m_0576bc2ec37376901d29bfddd4013136</sys_update_name>
+        <sys_update_version display_value="sys_properties_category_m2m_0576bc2ec37376901d29bfddd4013136">4976bc2ec37376901d29bfddd401313b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-26 01:21:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
